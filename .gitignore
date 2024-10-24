@@ -1,0 +1,39 @@
+# 환경 변수 파일
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual Environment directories
+env/
+venv/
+ENV/
+venv.bak/
+env.bak/
+
+# Flask cache
+*.pyo
+
+# Logs
+*.log
+*.out
+*.pid
+
+# VS Code Settings
+.vscode/
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.tox/
